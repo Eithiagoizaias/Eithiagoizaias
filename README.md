@@ -2,94 +2,51 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 # Thiago Silva 
-### 👩‍💻 Full-Stack JavaScript
+### 👩‍💻 Data Analyst 
+
+<div align="center"> <a href="https://github.com/Eithiagosilva"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eithiagosilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eithiagosilva&layout=compact&langs_count=7&theme=dark"/> </a> 
+</div>
+
+## 🚀 About Me 
+- 📊 Focused on **Data Analysis, Business Intelligence, and Data Engineering**.
+- ☁️ Exploring **Cloud Computing, Azure** for scalable data solutions.
+- 📚 Currently focused on **SQL, Python, Power BI, and Big Data tools**.
+- 💡 Passionate about **transforming data into insights** that drive business decisions.
+
+## 🛠️ Languages & Tools
+- **Programming & Data**: Python, R, SQL, NoSQL
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Visualization**: Excel, Power BI
+- **Dev Tools**: Git, Docker, Postman
 
 <div align="center">
-  <a href="https://github.com/Eithiagosilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eithiagosilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
-</div> 
-
-## Stacks
-
-<div align="center">
-  <a>
-    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eithiagosilva&layout=compact&langs_count=7&theme=dark"/>
-  <a>
-  
-  </div>
-
-  ### Web
-- HTML 
-- CSS
-- JavaScript
-- TypeScript
-  
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
-  </a>
-</p>
-
-
-
-### FrontEnd
-
-- Bulma
-- ReactJS
-- NextJS
-- Sass
-- Bootstrap
-
-<div style="display: inline_block"><br>
-  <a> 
-            <img id = 'thiago-bulma' heith = "40" width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
-          </a>
-  
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,sass,bootstrap" />
-  </a>
-  
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" title="R"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50" title="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" title="MongoDB"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="50" title="Excel"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="50" title="Power BI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" title="Postman"/>
 
 
 </div>
 
-### BackEnd
-
-- NodeJS
-- Express
-- NoSQL
-- MySQL
-- MongoDB
-- Postgres
-
- <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongo,postgres" />
-  </a>
-  
-</p>
-
-### Version Control and Tools
-- Git
-- Docker
-- VSCode
-- Figma
-- Postman
-  
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,vscode,figma,postman" />
-  </a>
-  
-</p>
-
-  
-<!-- RAINBOW LINE TOP -->
+<!-- RAINBOW LINE BOTTOM -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-  ## Contato
+## 🌍 Connect with Me
   <div> 
   <a href = "thiago.sizaias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eithiagosilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/eithiagosilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://trinitydeveloper.com.br" target="_blank">
+  <img width="40" height="40" alt="Portfolio" src="https://github.com/user-attachments/assets/32e7b2ab-efd6-403a-ad98-1ab023af220a" />
+</a>
    
+
 </div>
