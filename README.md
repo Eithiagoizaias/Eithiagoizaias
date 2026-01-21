@@ -5,9 +5,9 @@
 ### 💻 Data Engineer  
 
 <div align="center"> 
-  <a href="https://github.com/Eithiagosilva">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eithiagosilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eithiagosilva&layout=compact&langs_count=7&theme=dark"/> 
+  <a href="https://github.com/Eithiagoizaias">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eithiagoizaias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eithiagoizaias&layout=compact&langs_count=7&theme=dark"/> 
   </a> 
 </div>
 
