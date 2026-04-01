@@ -67,5 +67,5 @@
 <!-- <a href="https://www.tiktok.com/" target="_blank"><img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>  -->
 <a href="mailto:thiago.sizaias@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a href="https://www.linkedin.com/in/eithiagoizaias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/-Link%20Bio-0078D6?style=for-the-badge&logo=linktree&logoColor=white" alt="Meus Links"></a> -->
+<a href="https://beacons.ai/eithiagoizaias" target="_blank"><img src="https://img.shields.io/badge/-Link%20Bio-0078D6?style=for-the-badge&logo=linktree&logoColor=white" alt="Meus Links"></a>
 </div>
