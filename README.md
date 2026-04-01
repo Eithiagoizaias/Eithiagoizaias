@@ -59,7 +59,4 @@
   <a href="https://www.linkedin.com/in/eithiagoizaias/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://trinitydeveloper.com.br" target="_blank">
-    <img width="40" height="40" alt="Portfolio" src="https://github.com/user-attachments/assets/32e7b2ab-efd6-403a-ad98-1ab023af220a" />
-  </a>
 </div>
