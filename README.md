@@ -1,8 +1,11 @@
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-# Thiago Izaias 
-### 💻 Data Engineer  
+
+# Thiago Izaias
+
+### 💻 Data Engineer | Data Pipelines | BI 
+
 
 <div align="center"> 
   <a href="https://github.com/Eithiagoizaias">
@@ -14,37 +17,43 @@
 ---
 
 ## 🚀 About Me  
-- ☁️ Focusing on **Databricks & Azure** for scalable data solutions.  
-- 🛠️ Skilled in **SQL, Python, PySpark, ETL/ELT, Big Data, Data Pipelines**.  
-- 💡 Passionate about **turning raw data into actionable insights** that drive decision-making.  
+- ⚙️ Building **data pipelines and scalable data solutions**  
+- ☁️ Working with **Databricks, Azure & Big Data ecosystems**  
+- 📊 Experience with **Power BI and data-driven decision making**  
+- 🔄 Background in **IT support + data analytics integration**  
 
 ---
 
-## 🛠️ Languages & Tools  
-- **Languages & Tools**: Python, SQL, PySpark
-- **Data Enginner & Big Data**: ETL/ELT, Databricks, Spark, Modelagem de Dados, Pipelines
-- **Databases**: PostgreSQL, MySQL, MongoDB
-- **Business Intelligence**: Power BI, Excel
-- **Dev Tools**: Git, Docker, Postman
+## 🛠️ Tech Stack  
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50" title="SQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" title="MongoDB"/>
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="50" title="Excel"/>
-  <img src="https://img.icons8.com/color/48/power-bi.png" width="50" title="Power BI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" title="Postman"/>
-</div>
+### 💻 Data Engineering
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 📊 Data & BI
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+### ⚙️ Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 ## 📜 Certifications  
-- Databricks Lakehouse Fundamentals (Academy Accreditation)  
-- Databricks Certified Data Engineer Associate *(in progress)*  
+- ✅ Big Data com Spark & PySpark  
+- ✅ Apache Airflow  
+- ✅ Data Science (ETL & Visualization)
+- ✅ Power Bi   
+- 🟡 Databricks Data Engineer Associate *(in progress)*  
 
 ---
 
@@ -52,11 +61,11 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ## 🌍 Connect with Me  
-<div> 
-  <a href="mailto:thiago.sizaias@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/eithiagoizaias/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+
+<div align="center">
+<!-- <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a> -->
+<!-- <a href="https://www.tiktok.com/" target="_blank"><img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>  -->
+<a href="mailto:thiago.sizaias@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://www.linkedin.com/in/eithiagoizaias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/-Link%20Bio-0078D6?style=for-the-badge&logo=linktree&logoColor=white" alt="Meus Links"></a> -->
 </div>
