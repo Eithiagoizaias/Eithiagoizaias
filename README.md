@@ -17,11 +17,13 @@
 
 ---
 
-## 🚀 About Me  
-- ⚙️ Building **data pipelines and scalable data solutions**  
-- ☁️ Working with **Databricks, Azure & Big Data ecosystems**  
-- 📊 Experience with **Power BI and data-driven decision making**  
-- 🔄 Background in **IT support + data analytics integration**  
+## 🚀 About Me
+
+- 🔧 Building **ETL/ELT pipelines and scalable data solutions**
+- ☁️ Working with **Databricks, Apache Airflow & Big Data ecosystems**
+- 📊 Supporting **business intelligence with Power BI and data modeling**
+- 💻 Background in **full stack development** adds depth in API integration and data consumption
+- 🎯 Currently pursuing **Databricks Data Engineer Associate** certification
 
 ---
 
@@ -36,6 +38,7 @@
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 📊 Data & BI
@@ -49,12 +52,15 @@
 
 ---
 
-## 📜 Certifications  
-- ✅ Big Data com Spark & PySpark  
-- ✅ Apache Airflow  
+## 📜 Certifications
+
+- ✅ Big Data com Spark & PySpark
+- ✅ Apache Airflow
 - ✅ Data Science (ETL & Visualization)
-- ✅ Power Bi   
-- 🟡 Databricks Data Engineer Associate *(in progress)*  
+- ✅ Microsoft Power BI for Business Intelligence
+- ✅ Full Stack JavaScript
+- ✅ Excel - Data Analysis & Business
+- 🟡 Databricks Data Engineer Associate *(in progress)* 
 
 ---
 
