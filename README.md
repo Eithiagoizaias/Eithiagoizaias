@@ -7,7 +7,7 @@
 ### 💻 Data Engineer | Data Pipelines | BI 
 
 
-<div align="center"> 
+<div align="center">
   <a href="https://github.com/Eithiagoizaias">
     <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=Eithiagoizaias&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
     <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Eithiagoizaias&layout=compact&theme=tokyonight&hide_border=true" />
